@@ -1,5 +1,5 @@
-(module TRRS_SMD_PJ320 (layer F.Cu) (tedit 5C163DAE)
-  (fp_text reference REF** (at 0 6.35) (layer F.SilkS)
+(module TRRS_SMD_PJ320 (layer F.Cu) (tedit 5CB4BFF8)
+  (fp_text reference REF** (at 0 4.191) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value TRRS_SMD_PJ320 (at 0 -6.35) (layer F.Fab)
