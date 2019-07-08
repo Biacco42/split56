@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 8)
+    (drawings 9)
     (tracks 386)
     (zones 0)
     (modules 54)
@@ -1755,6 +1755,9 @@
     (pad "" np_thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   )
 
+  (gr_text "by Biacco42" (at 161.544 117.602) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_arc (start 36.576 118.364) (end 34.544 118.364) (angle -90) (layer Edge.Cuts) (width 0.15))
   (gr_arc (start 36.576 40.386) (end 36.576 38.354) (angle -90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 34.544 118.364) (end 34.544 40.386) (layer Edge.Cuts) (width 0.15))
